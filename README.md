@@ -23,16 +23,16 @@ The solution analyzes loan performance, customer demographics, credit risk, reve
 ## 📸 Dashboard Screenshots
 
 ### 💰 Loan Analytics
-![Loan Analytics](screenshots/loan-analytics.jpeg)
+![Loan Analytics](Financial-Loan-Analytics/screenshots/loan-analytics.jpeg)
 
 ### 👥 Customer Analytics
-![Customer Analytics](screenshots/customer-analytics.jpeg)
+![Customer Analytics](Financial-Loan-Analytics/screenshots/customer-analytics.jpeg)
 
 ### ⚠️ Risk Analytics
-![Risk Analytics](screenshots/risk-analytics.jpeg)
+![Risk Analytics](Financial-Loan-Analytics/screenshots/risk-analytics.jpeg)
 
 ### 📊 Portfolio Summary
-![Portfolio Summary](screenshots/summary-dashboard.jpeg)
+![Portfolio Summary](Financial-Loan-Analytics/screenshots/summary-dashboard.jpeg)
 
 ---
 
@@ -203,19 +203,17 @@ This dashboard provides a comprehensive view of lending performance and portfoli
 ```text
 loan-portfolio-risk-analytics-dashboard/
 │
-├── README.md
-├── loan_analytics.pbix
-├── Loan Portfolio Dashboard.pdf
-├── financial_loan.xlsx
-├── financial_loan_cleaned.csv
-└── screenshots/
-    ├── home-page.jpeg
-    ├── loan-analytics.jpeg
-    ├── customer-analytics.jpeg
-    ├── risk-analytics.jpeg
-    └── summary-dashboard.jpeg
+└── Financial-Loan-Analytics/
+    ├── README.md
+    ├── loan_analytics.pbix
+    ├── financial_loan.xlsx
+    ├── financial_loan_cleaned.csv
+    └── screenshots/
+        ├── loan-analytics.jpeg
+        ├── customer-analytics.jpeg
+        ├── risk-analytics.jpeg
+        └── summary-dashboard.jpeg
 ```
-
 ---
 
 ## 🚀 Getting Started
