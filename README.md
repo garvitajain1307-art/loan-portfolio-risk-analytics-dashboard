@@ -22,9 +22,6 @@ The solution analyzes loan performance, customer demographics, credit risk, reve
 
 ## 📸 Dashboard Screenshots
 
-### 🏠 Home Page
-
-![Home Page](screenshots/home-page.jpeg)
 
 ### 💰 Loan Analytics
 
