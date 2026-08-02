@@ -22,21 +22,16 @@ The solution analyzes loan performance, customer demographics, credit risk, reve
 
 ## 📸 Dashboard Screenshots
 
-
 ### 💰 Loan Analytics
-
 ![Loan Analytics](screenshots/loan-analytics.jpeg)
 
 ### 👥 Customer Analytics
-
 ![Customer Analytics](screenshots/customer-analytics.jpeg)
 
 ### ⚠️ Risk Analytics
-
 ![Risk Analytics](screenshots/risk-analytics.jpeg)
 
 ### 📊 Portfolio Summary
-
 ![Portfolio Summary](screenshots/summary-dashboard.jpeg)
 
 ---
